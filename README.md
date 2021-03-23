@@ -1,7 +1,10 @@
 This is a day to day crypto currency updates with price, volume, ATH, ATL, Price Change%, Market Change Percentage%, Market Capital and Last updated time.
 
 Visit https://crypto-currency-today-anirban.netlify.app for viewing my project.
- USE desktop for proper viewing.
+
+With a working Search Engine to save your time and taping back image to drive back to the homepage.
+
+ USE desktop for proper viewing and using.
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
